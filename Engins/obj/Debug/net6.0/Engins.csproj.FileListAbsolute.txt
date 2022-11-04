@@ -1,0 +1,12 @@
+C:\Projects\Engins\Engins\bin\Debug\net6.0\Engins.deps.json
+C:\Projects\Engins\Engins\bin\Debug\net6.0\Engins.dll
+C:\Projects\Engins\Engins\bin\Debug\net6.0\Engins.pdb
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.csproj.AssemblyReference.cache
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.AssemblyInfoInputs.cache
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.AssemblyInfo.cs
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.csproj.CoreCompileInputs.cache
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.dll
+C:\Projects\Engins\Engins\obj\Debug\net6.0\refint\Engins.dll
+C:\Projects\Engins\Engins\obj\Debug\net6.0\Engins.pdb
+C:\Projects\Engins\Engins\obj\Debug\net6.0\ref\Engins.dll

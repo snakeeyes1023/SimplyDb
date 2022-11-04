@@ -1,0 +1,15 @@
+C:\Projects\Engins\Engins.Tests\bin\Debug\net6.0\Engins.Tests.deps.json
+C:\Projects\Engins\Engins.Tests\bin\Debug\net6.0\Engins.Tests.dll
+C:\Projects\Engins\Engins.Tests\bin\Debug\net6.0\Engins.Tests.pdb
+C:\Projects\Engins\Engins.Tests\bin\Debug\net6.0\Engins.dll
+C:\Projects\Engins\Engins.Tests\bin\Debug\net6.0\Engins.pdb
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.csproj.AssemblyReference.cache
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.AssemblyInfoInputs.cache
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.AssemblyInfo.cs
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.csproj.CopyComplete
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.dll
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\refint\Engins.Tests.dll
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\Engins.Tests.pdb
+C:\Projects\Engins\Engins.Tests\obj\Debug\net6.0\ref\Engins.Tests.dll
