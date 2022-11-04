@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Engins\\Engins\\Engins.csproj": {}
+    "C:\\Projects\\SimplyDb\\Engins\\Engins.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Engins\\Engins\\Engins.csproj": {
+    "C:\\Projects\\SimplyDb\\Engins\\Engins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Engins\\Engins\\Engins.csproj",
+        "projectUniqueName": "C:\\Projects\\SimplyDb\\Engins\\Engins.csproj",
         "projectName": "Engins",
-        "projectPath": "C:\\Projects\\Engins\\Engins\\Engins.csproj",
+        "projectPath": "C:\\Projects\\SimplyDb\\Engins\\Engins.csproj",
         "packagesPath": "C:\\Users\\Jonathan Cote\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Engins\\Engins\\obj\\",
+        "outputPath": "C:\\Projects\\SimplyDb\\Engins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

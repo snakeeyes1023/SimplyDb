@@ -28,7 +28,6 @@ namespace Engins.DbProvider
         }
 
         public string SaveStatement => throw new NotImplementedException();
-
         public string UpdateStatement { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string DeleteStatement { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string QueryStatement { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
@@ -49,7 +48,7 @@ namespace Engins.DbProvider
             {   
                 db.Open();
                 
-                return db.Query<T>($"SELECT * FROM {TableName}").ToList();
+                return db.Query<T>($"SELECT * FROM {TableName}");
             } 
         }
 

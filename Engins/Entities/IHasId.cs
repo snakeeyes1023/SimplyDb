@@ -8,6 +8,6 @@ namespace Engins.Entities
 {
     public interface IHasID
     {
-         string Value { get; set; }
+         int Id { get; }
     }
 }

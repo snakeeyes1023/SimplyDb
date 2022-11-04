@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVWnQE+2goYC68cu+ScsnPts/RXqNNE0igTfvM+mQYQG3CNUAl9dKXWYE+OmRmH0wGTWS2JCfcP9x6qp7wmNTw==",
+  "dgSpecHash": "aP7xrVR3/7ho6CkOl+4xlMydmdG/7aHocCYX6mPe4izHNaQ3UOEOJ4QWFge/bndBRXZFCxqEEJ+2rJnp31AECQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Engins\\Engins\\Engins.csproj",
+  "projectFilePath": "C:\\Projects\\SimplyDb\\Engins\\Engins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan Cote\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jonathan Cote\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -9,13 +9,16 @@ using System.Threading.Tasks;
 
 namespace Engins.Entities
 {
+    /// <summary>
+    /// Can be compare to a table in sql
+    /// </summary>
     public class Entity : IHasID
     {
-        string IHasID.Value { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int Id { get; private set; }
 
-        public void BeforeSave()
+        public virtual void BeforeSave()
         {
-
+            Console.WriteLine("I will save");
         }
     }
 
